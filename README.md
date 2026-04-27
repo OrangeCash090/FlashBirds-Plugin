@@ -1,5 +1,5 @@
 # Flash's Birds
-My amazing plugin description that I forgot to change for some reason.
+An Onix Client Plugin that adds birds to your world which fly around you.
 
 - By **OrangeCash090 + O2Flash**
 
