@@ -1,6 +1,6 @@
 # Flash's Birds
-An Onix Client Plugin that adds birds to your world which fly around you.\n
-Ported from 02Flash's Onix Client Script:\n
+An Onix Client Plugin that adds birds to your world which fly around you.<br>
+Ported from 02Flash's Onix Client Script:<br>
 https://github.com/OnixClient-Scripts/OnixClient_Scripts/blob/master/Modules/birds.lua
 
 - By **OrangeCash090 + O2Flash**
