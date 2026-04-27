@@ -1,0 +1,13 @@
+{
+  "uuid": "d8ffe80e-32c6-4d9c-b7bd-40438955d80b",
+  "plugin_name": "Flash's Birds",
+  "plugin_author": "Orange + Flash",
+  "plugin_description": "An Onix Client Plugin that adds birds to your world which fly around you.",
+  "plugin_version": "1.0.0",
+  "game_version": "1.26.13",
+  "supported_game_version_ranges": [
+    "0.0.0-9.99.9"
+  ],
+  "runtime_version": 7,
+  "target_assembly": "FlashsBirds.dll"
+}

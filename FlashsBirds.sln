@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashsBirds", "FlashsBirds/FlashsBirds.csproj", "{18FF6540-D582-4AE2-BD2C-4ED6E17F6D92}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|x64 = Debug|x64
+        Release|x64 = Release|x64
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {18FF6540-D582-4AE2-BD2C-4ED6E17F6D92}.Debug|x64.ActiveCfg = Debug|x64
+        {18FF6540-D582-4AE2-BD2C-4ED6E17F6D92}.Debug|x64.Build.0 = Debug|x64
+        {18FF6540-D582-4AE2-BD2C-4ED6E17F6D92}.Release|x64.ActiveCfg = Release|x64
+        {18FF6540-D582-4AE2-BD2C-4ED6E17F6D92}.Release|x64.Build.0 = Release|x64
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+    GlobalSection(ExtensibilityGlobals) = postSolution
+        SolutionGuid = {B60E4A9C-776D-42B0-8C8A-5F88B9C0D269}
+    EndGlobalSection
+EndGlobal
