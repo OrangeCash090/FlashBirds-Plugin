@@ -47,7 +47,7 @@ namespace FlashsBirds {
 			gfx.SetMaterialParameters(new GameMaterialParameters {
 				Light = true
 			});
-			
+
 			Manager?.Update(gfx, delta);
 			GameTimer.Update(delta);
 		}

@@ -25,9 +25,8 @@ public class BirdManager(FlashsBirdsConfig config) {
 
 	private void TrySpawnBird() {
 		if (Birds.Count >= Config.MaxBirds) return;
-
-		float time = Onix.Dimension!.NormalizedTime;
-		if (MathF.Abs(4f*time - 2f) <= 1f || Onix.Dimension.Id != DimensionType.Overworld) return;
+		if (Onix.Dimension == null) return;
+		if (Onix.Dimension.Id != DimensionType.Overworld) return;
 
 		Vec3 playerPos = Onix.LocalPlayer!.Position;
 		float angle = Random.Shared.NextSingle() * MathF.PI * 2f;
